@@ -13,13 +13,13 @@
     <hr>
 
 <body>   
-    <h2 style="color:indigo; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 2.3ex">Aesthetic Pictures!</h2>
+    <h2 style="color:indigo; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 2.3ex;">Aesthetic Pictures!</h2>
     <P style="color:teal; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 17px;"> City in the rainy night!</P>
     <a href="https://pin.it/77LnGIv">Check this image on Pinterest</a>
     <hr>
     
 <body>    
-    <h3 style="color:red; font-family: 'Courier New', Courier, monospace; font-size: 20px;">Reference</h3>
+    <h3 style="color:red; font-family: 'Courier New', Courier, monospace; font-size: 2.3ex;">Reference</h3>
     <p style="color:darkolivegreen; font-family: comic 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 20px;"> Please visit directly at <a href="https://www.pinterest.com">Pinterest.com</a> for more images.</p>
     <!--<a href="https://www.pinterest.com" style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color:black">this link</a>-->
 
