@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html> 
 <head>
-    <title>Image</title> 
+    <!--<title>Image</title> -->
 </head>
 
 <body style="background-color:whitesmoke;">
