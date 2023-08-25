@@ -7,13 +7,13 @@
 </head>
 
 <body style="background-color:whitesmoke;">
-    <h1 style="color:indigo; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;"> Artistic scratching!</h1>
+    <h1 style="color:indigo; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 2.3ex;"> Artistic scratching!</h1>
     <P style="color:teal; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 17px;"> Fine art for contemporary spaces!</P>
     <a href="https://pin.it/2E6hA87">Check this image on Pinterest</a>
     <hr>
 
 <body>   
-    <h2 style="color:indigo; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px">Aesthetic Pictures</h2>
+    <h2 style="color:indigo; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 2.3ex">Aesthetic Pictures!</h2>
     <P style="color:teal; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 17px;"> City in the rainy night!</P>
     <a href="https://pin.it/77LnGIv">Check this image on Pinterest</a>
     <hr>
