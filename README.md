@@ -6,8 +6,7 @@
     <title>Image</title> 
 </head>
 
-<body> 
-    style="background-color:whitesmoke;">
+<body style="background-color:whitesmoke;">
     <h1 style="color:indigo; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;"> Artistic scratching!</h1>
     <P style="color:teal; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 17px;"> Fine art for contemporary spaces!</P>
     <a href="https://pin.it/2E6hA87">Check this image on Pinterest</a>
